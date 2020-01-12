@@ -17,7 +17,6 @@ Trading: An authenticated user can trade flight assignments with other employees
 MySQL (Working with a db remotely)
 Within the realm of C#: LINQ to entities, authentication, concurrency, app configuration
 ### What I'll Have to Learn
-Include what you will need to learn here
 In depth knowledge of LINQ to entities, authentication, concurrency, app configuration
 
 ###Link to your Trello board here (This is our group Trello Board)
